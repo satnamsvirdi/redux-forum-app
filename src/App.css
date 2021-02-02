@@ -1,0 +1,16 @@
+.disabled-input {
+	margin: 1rem;
+	padding: 0 1rem;
+	background-color: #eee;
+	border: 1px solid #ddd;
+	border-radius: 0.3rem;
+	color: #666;
+}
+.disabled-input a {
+	color: blue;
+	text-decoration: none;
+}
+.disabled-input a:hover {
+	color: red;
+	text-decoration: underline;
+}

@@ -1,0 +1,25 @@
+.question-list-heading {
+	padding: 1.3rem 1rem 1rem 1rem;
+	margin: 0;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.04);
+}
+.question-list {
+	margin: 0.5rem 1rem 1rem 1rem;
+}
+.question-container {
+	padding: 0.6rem 1rem 0.6rem 0;
+	margin-bottom: 0.1rem;
+}
+.question-title {
+	padding: 0;
+	margin: 0;
+	font-weight: 600;
+}
+.question-link {
+	color: black;
+	text-decoration: none;
+}
+.question-link:hover {
+	color: red;
+	text-decoration: underline;
+}
